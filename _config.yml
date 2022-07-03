@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome my blog
+title: Welcome to my blog
 email: lanierdodd@gmail.com
 author: taxeric
 # Copyright setting
