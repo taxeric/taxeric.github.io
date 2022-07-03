@@ -150,14 +150,13 @@ yat:
 #   - index.html
 #   - archives.html
 #   - categories.html
-#   - tags.html
 #   - about.md
 
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "(。・∀・)ノ"
+#     subheading: "年年岁岁花相似"
 #     banner: "Your image url"
 
 # Banner default settings
@@ -188,7 +187,7 @@ yat:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
+#   username: "taxeric"
 #   repo: "The repo to store comments"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
