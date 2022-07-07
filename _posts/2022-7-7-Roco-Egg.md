@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Roco孵蛋程序
-subtitle: 沉迷洛克王国孵蛋无法自拔...
+title: Roco Egg
+subtitle: A simple android App for Roco Egg
 categories: android
 tags: [compose][android][jetpack compose]
 ---
