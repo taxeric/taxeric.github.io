@@ -3,7 +3,7 @@ layout: post
 title: Roco Egg
 subtitle: A simple android App for Roco Egg
 categories: android
-tags: [compose][android][jetpack compose]
+tags: compose android jetpack compose
 ---
 
 ## 简介
