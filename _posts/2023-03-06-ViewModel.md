@@ -2,7 +2,7 @@
 layout: post
 title: ViewModel
 subtitle: 
-categories: Android
+categories: android
 tags: 源码
 ---
 
